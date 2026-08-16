@@ -1,0 +1,2 @@
+# skill-She
+SkillShe – Where Talents Meet Opportunities  SkillShe is a web-based platform designed to help women showcase their skills, offer services, and connect with potential customers. The platform provides a simple and user-friendly environment where sellers can present their skills and buyers can explore and search for available services.  The project focuses on empowering women by creating an online space where they can turn their talents into opportunities and potentially earn from their skills. 
